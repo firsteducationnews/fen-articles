@@ -1,0 +1,11 @@
+{
+ "to": "firsteducationnews@gmail.com",
+ "subject": "Test: donation box with QR code",
+ "text": "This is a test of the donation box.\nDonate: https://firsteducationnews.com/donation.asp\nUPI ID: 9867381971-3@okyes",
+ "html": "<p>Dear Team,</p><p>This is a test of the donation box that now goes with every \"your news is live\" email.</p>\n<p style=\"margin-top:18px;padding:12px 14px;border:1px solid #d9e2e7;border-radius:8px;background:#f6f9fb\"><b>Support First Education News</b><br>We publish genuine education news free of charge. If you value our work, please support us with a donation of any amount:<br><a href=\"https://firsteducationnews.com/donation.asp\">Donate to First Education News</a><br>UPI ID: <b>9867381971-3@okyes</b> (works with PhonePe, Google Pay, Paytm, BHIM, Amazon Pay, etc.)<br>Or scan this QR code with any UPI app:<br><img src=\"cid:fenqr\" alt=\"UPI QR code\" width=\"220\" style=\"margin-top:8px\"></p>\n<p>Best regards,<br>First Education News</p>",
+ "reply_to_message_id": "",
+ "thread_id": "",
+ "add_label": "",
+ "remove_label": "",
+ "attach_payment_qr": true
+}
